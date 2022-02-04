@@ -6,5 +6,5 @@
     
  #
 
-Crie uma API em  Python com Django e um banco de dados MySQL ou SQLite.
+Uma API em  Python com uso Django e um banco de dados MySQL ou SQLite.
 O Banco de dados pode conter apenas uma tabela com apenas esses campos: 'NOME', 'SOBRENOME', 'DATA DE NASCIMENTO', 'NATURALIDADE' e 'HOBBY';
